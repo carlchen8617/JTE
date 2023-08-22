@@ -1,6 +1,6 @@
 Package gradle
-
+import java.util.logging.Logger
 void call(){
-   log.info "gradle, code build()"
+   logger.info "gradle, code build()"
 }
    
