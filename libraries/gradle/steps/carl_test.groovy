@@ -1,4 +1,6 @@
-def printM(){
-   println "oK"
+Package gradle
+
+def printM(String M){
+   println "${}M"
 }
    
