@@ -1,1 +1,2 @@
 dummy()
+run_it()
