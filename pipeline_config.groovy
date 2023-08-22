@@ -1,7 +1,11 @@
 template_methods{
   
  dummy
- gradle
+}
+
+libraries{
+
+   gradle
 }
 
 stages{
