@@ -1,6 +1,6 @@
 Package gradle
 
-def printM(){
+void call(){
    log.info "gradle, code build()"
 }
    

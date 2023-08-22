@@ -6,6 +6,6 @@ template_methods{
 
 stages{
     run_it{
-     gradle.carl_test.printM()
+     gradle
   }
 }
