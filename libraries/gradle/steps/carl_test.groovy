@@ -1,4 +1,4 @@
-def printM(String Message){
-   println "${message}"
+def printM(){
+   println "oK"
 }
    
