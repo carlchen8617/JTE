@@ -10,6 +10,8 @@ libraries{
 
 stages{
     
-     gradle
+     gradle {
+       carl_test
+     }
   
 }
