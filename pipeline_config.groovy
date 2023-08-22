@@ -9,7 +9,7 @@ libraries{
 }
 
 stages{
-    run_it{
+    
      gradle
-  }
+  
 }
