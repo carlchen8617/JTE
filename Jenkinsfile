@@ -1,2 +1,2 @@
 dummy()
-run_it()
+gradle()
